@@ -1,6 +1,6 @@
 -- Write your queries to insert data here
 -- Client
-INSERT INTO client (first_name, last_name, email);
+INSERT INTO client (first_name, last_name, email)
 VALUES ('Sara',   'Smith',   'smiths@hello.com'),
   ('Miguel', 'Cabrera', 'mc@hello.com'),
   ('Bo',     'Chan''g', 'bochang@hello.com');
